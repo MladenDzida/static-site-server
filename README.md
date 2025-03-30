@@ -15,3 +15,5 @@ Steps to setup a web server with a static site served using Nginx and rsync:
   <li>create a script that runs nsync to add files to the server (deploy.sh)</li>
   <li>run deploy.sh</li>
 </ol>
+
+The site is deployed on: http://46.101.208.240/
